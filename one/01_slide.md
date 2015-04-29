@@ -116,3 +116,4 @@
 !SLIDE bullets
 # Thank you
 * Made with https://github.com/puppetlabs/showoff
+* Slides at https://github.com/chischaschos/bigquery-w-golang-showoff
